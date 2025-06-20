@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Projects\\modul\\PP6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C2A809-106B-4EBD-A241-0FB9EEB04B8B}|Project6\\Project6.vcxproj|C:\\Users\\student\\Projects\\modul\\PP6\\Project6\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6C2A809-106B-4EBD-A241-0FB9EEB04B8B}|Project6\\Project6.vcxproj|solutionrelative:Project6\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C2A809-106B-4EBD-A241-0FB9EEB04B8B}|Project6\\Project6.vcxproj|C:\\Users\\student\\Projects\\modul\\PP6\\Project6\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{D6C2A809-106B-4EBD-A241-0FB9EEB04B8B}|Project6\\Project6.vcxproj|solutionrelative:Project6\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C2A809-106B-4EBD-A241-0FB9EEB04B8B}|Project6\\Project6.vcxproj|C:\\Users\\student\\Projects\\modul\\PP6\\Project6\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6C2A809-106B-4EBD-A241-0FB9EEB04B8B}|Project6\\Project6.vcxproj|solutionrelative:Project6\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Projects\\modul\\PP6\\Project6\\MyForm.cpp",
+              "RelativeDocumentMoniker": "Project6\\MyForm.cpp",
+              "ToolTip": "C:\\Users\\student\\Projects\\modul\\PP6\\Project6\\MyForm.cpp",
+              "RelativeToolTip": "Project6\\MyForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-19T08:22:36.457Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\student\\Projects\\modul\\PP6\\Project6\\MyForm.h",
+              "RelativeDocumentMoniker": "Project6\\MyForm.h",
+              "ToolTip": "C:\\Users\\student\\Projects\\modul\\PP6\\Project6\\MyForm.h",
+              "RelativeToolTip": "Project6\\MyForm.h",
+              "ViewState": "AgIAADYBAAAAAAAAAAAuwFcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-19T08:26:19.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\student\\Projects\\modul\\PP6\\Project6\\MyForm.h",
+              "RelativeDocumentMoniker": "Project6\\MyForm.h",
+              "ToolTip": "C:\\Users\\student\\Projects\\modul\\PP6\\Project6\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Project6\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-19T08:22:19.559Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
